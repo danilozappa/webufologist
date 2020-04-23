@@ -1,0 +1,154 @@
+body {
+  background-color: #ff5733  ;
+  margin: 0;
+  text-align: center;
+  font-family: 'Baloo Tamma 2', cursive;
+  color: #900c3f;
+}
+
+h1 {
+  color: #900c3f;
+  font-size: 5.625rem;
+  margin: 50px auto 0 auto;
+  font-family: 'Girassol', cursive;
+}
+
+h2 {
+  color: #900c3f;
+  font-size: 2.5rem;
+  font-family: 'Lobster', cursive;
+  padding-bottom: 10px;
+}
+
+h3 {
+  color: #511845;
+  font-family: 'Lobster', cursive;
+}
+
+p {
+  line-height: 2;
+}
+
+a {
+  color: #c70039;
+  font-family: 'Baloo Tamma 2', cursive;
+  margin: 10px 20px;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #900c3f
+}
+
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-color: #c70039;
+  border-width: 8px;
+  width: 5%;
+  margin: 100px auto 100px auto;
+}
+
+.skill-row {
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+}
+
+.profission {
+
+  font-weight: normal;
+  font-family: 'Baloo Tamma 2', cursive;
+}
+
+.intro {
+  width: 30%;
+  margin: auto;
+}
+
+.top-container {
+  background-color: #511845;
+  display: block;
+  margin: 0;
+  position: relative;
+  padding-top: 100px;
+  padding-bottom: 100px;
+}
+
+.prof-pic {
+  width: 150px;
+  height: 150px;
+  margin-top: 25px;
+}
+
+.alien-gif {
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+
+.synth-cat {
+  width: 25%;
+  float: right;
+  margin-left: 30px;
+}
+
+.middle-container {
+  padding-top: 100px;
+  padding-bottom: 100px;
+}
+.contact-message {
+  width: 40%;
+  margin: 40px auto 60px auto;
+}
+
+.bottom-container {
+  background-color: #511845;
+  padding: 50px 0 20px;
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 300px;
+
+  width: 171px;
+  height: 171px;
+}
+
+.webbo {
+  text-decoration: underline;
+}
+
+.top-cloud {
+  position: absolute;
+  right: 300px;
+  top: 50px;
+  width: 186px;
+  height: 103px;
+}
+
+.btn {
+	background-color:#511845;
+	border-radius:28px;
+	border:1px solid #900c3f;
+	display:inline-block;
+	cursor:pointer;
+	color:#ff5733;
+	font-family: 'Baloo Tamma 2', cursive;
+	font-size:17px;
+	padding:16px 31px;
+	text-decoration:none;
+	text-shadow:0px 1px 0px #511845;
+}
+.btn:hover {
+	background-color:#900c3f;
+}
+.btn:active {
+	position:relative;
+	top:1px;
+}
+
+.copyright {
+  color: #c70039;
+  font-size: 0.75rem;
+}
